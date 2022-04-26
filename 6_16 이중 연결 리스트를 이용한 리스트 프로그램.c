@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-//���α׷� 6.16
+//ÇÁ·Î±×·¥ 6.16
 typedef int Element;
 typedef struct DLinkedNode {
 	Element data;
